@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kanap Pratik Popat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **React Js,Node Js, Express Js**
+- 🌱 I’m currently learning **React Js, Functional Programming in Java, Concurrency, Hibernate, **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eight-neon-48.vercel.app/](https://portfolio-eight-neon-48.vercel.app/)
 
-- 💬 Ask me about **C, Core java, HTML, CSS, Javascript**
+- 💬 Ask me about **C, Core java, HTML, CSS, Javascript, Spring boot, JPA, JDBC, MYSQL**
 
 - 📫 How to reach me **kanappratik@gmail.com**
 
